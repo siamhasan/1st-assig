@@ -82,6 +82,7 @@ section {
 
 .my-mission h1 {
   text-align: center;
+  margin-top: 70px;
 }
 
 .scroll-text {
@@ -165,4 +166,46 @@ span {
   right: -100px;
   bottom: -60px;
   z-index: -99;
+}
+
+
+.covid{
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-top: 50px;
+
+}
+.covid-img1{
+
+ width: 400px;
+ height: 400px;
+ 
+
+
+}
+
+
+.covid-txt{
+
+width: 500px;
+
+}
+
+.social-d{
+
+text-align: center;
+
+}
+
+.colour-dis{
+
+    color: coral;
+}
+
+.social-d{
+
+
+    margin-top: 80px;
 }
