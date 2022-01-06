@@ -36,9 +36,10 @@ height: 365.06px;
 
 .explore-bottom{
     text-decoration: none;
-    background-color: #ff8282;
+    background-color: #FF5959;
     padding: 10px 15px;
     border-radius: 5px;
+    color: black;
 }
 
 .line-left{
@@ -89,4 +90,82 @@ padding: 25px 24px;
 
 .scroll-text{
     margin-top: 35px;
+}
+
+.img-size{
+
+    width: 400px;
+    height: 400px;
+    border-radius: 26px;
+
+
+}
+
+.develop-limits, .global-community {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.global-txt{
+
+width: 621px;
+}
+
+.develop-txt{
+
+    width: 621px;
+}
+
+.trd-sec{
+
+margin-top: 84px;
+
+}
+
+.read-doc-botton {
+
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: black;
+}
+
+footer{
+color: white;
+height: 177px;
+width: 100%;
+background: #0B0D17 ;
+text-align: center;
+
+
+}
+span{
+
+    color: #FF5959;
+}
+
+.footer-text{
+
+padding-top: 30px;
+
+}
+
+.shape-1{
+    width: 227px;
+    height: 227px;
+position: absolute;
+left: -115px;
+z-index: -99;
+top: 30px;
+
+
+}
+
+.develop-img{
+
+    position: relative;
 }
