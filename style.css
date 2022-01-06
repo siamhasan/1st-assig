@@ -1,0 +1,92 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+}
+.mission-colour{
+    color: lightsalmon;
+}
+
+
+section{
+
+    
+    width: 80%;
+    margin: auto;
+}
+
+.hero{
+
+display: flex;
+justify-content: space-between;
+
+}
+
+
+.half-with1 p{
+
+width: 471px;
+
+
+}
+
+.half-with1 img{
+    width: 365.06px;
+height: 365.06px;
+}
+
+.explore-bottom{
+    text-decoration: none;
+    background-color: #ff8282;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.line-left{
+
+    color: lightsalmon;
+    padding: 10px;
+
+}
+
+.illus{
+  width: 141px;
+height: 141px;
+}
+
+.cards{
+
+display: flex;
+gap: 20px;
+
+}
+
+
+.left{
+background: rgba(79, 157, 166, 0.1);
+border-radius: 26px;
+padding: 25px 24px;
+}
+
+
+.middle { 
+
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 26px;
+    padding: 25px 24px;
+}
+
+.right {
+
+    background: #FFF4D6;
+border-radius: 26px;
+padding: 25px 24px;
+}
+
+.my-mission h1{
+
+    text-align: center;
+}
+
+.scroll-text{
+    margin-top: 35px;
+}
